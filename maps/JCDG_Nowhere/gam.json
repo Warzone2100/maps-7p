@@ -1,0 +1,10 @@
+{
+    "version": 7,
+    "gameTime": 0,
+    "GameType": 0,
+    "ScrollMinX": 25,
+    "ScrollMinY": 25,
+    "ScrollMaxX": 225,
+    "ScrollMaxY": 225,
+    "levelName": ""
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Disaster",
+    "type": "skirmish",
+    "players": 7,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-12-13 17:12:35",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "flaME v1.10"
+}

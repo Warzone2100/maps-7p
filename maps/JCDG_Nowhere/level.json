@@ -1,0 +1,13 @@
+{
+    "name": "JCDG_Nowhere",
+    "type": "skirmish",
+    "players": 7,
+    "tileset": "arizona",
+    "author": {
+        "name": "Amiral JCDG"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-04-06 20:02:58",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.27 Windows"
+}

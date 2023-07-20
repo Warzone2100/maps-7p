@@ -1,0 +1,2 @@
+It`s a symmetrical 7-player map in correct rotation.  
+6 oils+2trucks/player in the base + 8 oil/player/terrain +9 oils/scavs. (7 around in the outposts+2 in the middle) = 15,3 oil/player. I placed doublepacks of oil to fight for. Advanced bases with light/medium defense. 
