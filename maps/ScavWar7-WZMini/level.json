@@ -1,0 +1,13 @@
+{
+    "name": "ScavWar7-WZMini",
+    "type": "skirmish",
+    "players": 7,
+    "tileset": "urban",
+    "author": {
+        "name": "KSA"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-11-24 11:49:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

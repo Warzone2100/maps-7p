@@ -1,0 +1,13 @@
+{
+    "name": "RayStar7",
+    "type": "skirmish",
+    "players": 7,
+    "tileset": "rockies",
+    "author": {
+        "name": "Ray"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2012-10-11 19:46:22",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
