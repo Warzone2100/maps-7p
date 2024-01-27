@@ -1,0 +1,13 @@
+{
+    "name": "Revolution",
+    "type": "skirmish",
+    "players": 7,
+    "tileset": "urban",
+    "author": {
+        "name": "PathForger"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2023-12-23 22:04:25",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME - Json 1.29.3 Windows"
+}
